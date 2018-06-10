@@ -1,0 +1,24 @@
+# значения по умолчанию
+# цвета, формы, размеры
+
+DEFAULT_POINT_COLOR = '#000000'
+
+DEFAULT_POINT_SHAPE = "o"
+
+DEFAULT_HISTOGRAM_COLOR = '#d2b48c'
+
+DEFAULT_MARKER_SIZE_SMALL = 3
+
+DEFAULT_MARKER_SIZE_BIG = 4
+
+DEFAULT_SELECTION_POINT_SIZE = 2
+
+DEFAULT_SELECTION_SHAPE = "o"
+
+DEFAULT_SELECTION_COLOR = '#ff0000'
+
+INVISIBLE_COLOR = '#ffffff'
+
+DEFAULT_COLOR_SET = ['#0000ff', '#00ff00', '#ff0000', '#00ffff', '#ff00ff', '#ffff00']
+
+
