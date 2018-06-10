@@ -1,6 +1,5 @@
 cx-Freeze==5.1
 cycler==0.10.0
-Django==1.11.7
 et-xmlfile==1.0.1
 image==1.5.16
 jdcal==1.3
